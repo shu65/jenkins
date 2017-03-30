@@ -1,2 +1,2 @@
 # jenkins
-This repository is docker of jenkins
+This repository is docker of jenkins.
