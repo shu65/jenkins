@@ -2,7 +2,7 @@
 This repository is docker of jenkins.
 
 
-# Example of docker-compose.yml
+## Example of docker-compose.yml
 ```
 version: '2'
 services:
