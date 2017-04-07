@@ -13,6 +13,7 @@ RUN apt-get update && \
 # install jenkins plugins
 RUN /usr/local/bin/install-plugins.sh git:latest \
   jobConfigHistory:latest \
+  blueocean:latest \
   junit:latest 
 
 # start jenkins
